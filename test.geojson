@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Avions"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404178619384766,
+          52.47399783853454
+        ]
+      }
+    }
+  ]
+}
